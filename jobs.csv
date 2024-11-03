@@ -1,0 +1,101 @@
+job_id,title,location,salary_range,date_posted,company_id
+101,Product Manager,Seattle,100000-130000,2024-10-17,8
+102,Product Manager,Seattle,60000-80000,2024-07-20,7
+103,Financial Analyst,Atlanta,70000-90000,2024-10-01,3
+104,Healthcare Consultant,Atlanta,50000-70000,2024-10-26,2
+105,Backend Developer,Austin,70000-90000,2024-07-27,5
+106,Environmental Scientist,Seattle,60000-80000,2024-05-14,4
+107,Software Engineer,New York,60000-80000,2024-06-26,9
+108,Healthcare Consultant,New York,60000-80000,2024-08-14,4
+109,Data Analyst,Austin,80000-100000,2024-08-09,5
+110,Research Associate,New York,60000-80000,2024-07-24,3
+111,Product Manager,Austin,70000-90000,2024-11-01,3
+112,Financial Analyst,New York,70000-90000,2024-10-06,1
+113,Curriculum Designer,San Francisco,70000-90000,2024-10-15,3
+114,Research Associate,Austin,80000-100000,2024-07-04,2
+115,Software Engineer,Atlanta,90000-110000,2024-08-07,4
+116,Data Analyst,Chicago,90000-110000,2024-07-15,6
+117,Environmental Scientist,San Francisco,80000-100000,2024-08-28,9
+118,Curriculum Designer,Seattle,90000-110000,2024-10-27,7
+119,Environmental Scientist,Boston,50000-70000,2024-10-30,7
+120,Data Analyst,New York,70000-90000,2024-06-18,5
+121,UX Designer,Denver,70000-90000,2024-08-13,9
+122,Product Manager,Austin,50000-70000,2024-06-03,4
+123,Research Associate,Chicago,70000-90000,2024-06-30,5
+124,Product Manager,San Francisco,70000-90000,2024-06-03,2
+125,Healthcare Consultant,Austin,50000-70000,2024-09-30,9
+126,Financial Analyst,Austin,80000-100000,2024-05-25,1
+127,Curriculum Designer,New York,60000-80000,2024-09-04,2
+128,Backend Developer,Los Angeles,60000-80000,2024-10-09,9
+129,Healthcare Consultant,Austin,70000-90000,2024-06-24,3
+130,Backend Developer,Seattle,70000-90000,2024-10-30,2
+131,UX Designer,Atlanta,60000-80000,2024-08-18,5
+132,Software Engineer,Austin,70000-90000,2024-09-20,2
+133,Research Associate,Chicago,50000-70000,2024-10-11,3
+134,UX Designer,San Francisco,60000-80000,2024-08-31,4
+135,UX Designer,San Francisco,90000-110000,2024-10-29,9
+136,Research Associate,Austin,90000-110000,2024-06-04,5
+137,Curriculum Designer,Seattle,70000-90000,2024-07-06,2
+138,Software Engineer,Los Angeles,80000-100000,2024-05-26,9
+139,Financial Analyst,Denver,80000-100000,2024-09-25,1
+140,Product Manager,Dallas,60000-80000,2024-05-21,6
+141,Curriculum Designer,Los Angeles,100000-130000,2024-10-28,6
+142,Healthcare Consultant,San Francisco,90000-110000,2024-10-19,4
+143,Data Analyst,Boston,80000-100000,2024-09-16,6
+144,UX Designer,New York,50000-70000,2024-07-10,4
+145,Software Engineer,San Francisco,80000-100000,2024-08-06,3
+146,Financial Analyst,Boston,60000-80000,2024-08-23,8
+147,Environmental Scientist,Seattle,70000-90000,2024-05-26,3
+148,Data Analyst,Boston,60000-80000,2024-07-14,7
+149,Healthcare Consultant,Austin,80000-100000,2024-07-30,10
+150,Healthcare Consultant,Boston,80000-100000,2024-07-07,6
+151,Environmental Scientist,Seattle,50000-70000,2024-09-02,1
+152,Research Associate,Denver,70000-90000,2024-09-08,4
+153,Financial Analyst,Boston,50000-70000,2024-10-31,1
+154,Backend Developer,New York,60000-80000,2024-06-15,5
+155,Curriculum Designer,Denver,100000-130000,2024-08-22,8
+156,Product Manager,Dallas,70000-90000,2024-08-07,9
+157,Curriculum Designer,Boston,60000-80000,2024-07-31,7
+158,Financial Analyst,Los Angeles,60000-80000,2024-10-22,4
+159,Backend Developer,Austin,80000-100000,2024-08-16,8
+160,Product Manager,Atlanta,90000-110000,2024-06-26,3
+161,Backend Developer,San Francisco,70000-90000,2024-05-19,8
+162,Data Analyst,Boston,90000-110000,2024-10-10,8
+163,Financial Analyst,Dallas,70000-90000,2024-11-01,7
+164,Data Analyst,Chicago,60000-80000,2024-08-21,3
+165,Data Analyst,Austin,80000-100000,2024-10-31,2
+166,Software Engineer,Seattle,70000-90000,2024-05-09,7
+167,Data Analyst,Seattle,50000-70000,2024-05-25,2
+168,Backend Developer,New York,100000-130000,2024-09-23,8
+169,Financial Analyst,Chicago,80000-100000,2024-10-17,7
+170,Healthcare Consultant,Austin,50000-70000,2024-07-23,5
+171,Curriculum Designer,Dallas,70000-90000,2024-09-21,2
+172,Data Analyst,Chicago,60000-80000,2024-10-14,2
+173,Healthcare Consultant,San Francisco,90000-110000,2024-10-06,7
+174,Financial Analyst,Denver,90000-110000,2024-09-13,7
+175,Healthcare Consultant,Denver,80000-100000,2024-09-05,2
+176,Curriculum Designer,San Francisco,100000-130000,2024-05-07,5
+177,Backend Developer,New York,100000-130000,2024-09-02,3
+178,Healthcare Consultant,New York,80000-100000,2024-08-10,2
+179,Research Associate,Seattle,80000-100000,2024-10-14,10
+180,Environmental Scientist,Los Angeles,80000-100000,2024-10-22,6
+181,Data Analyst,Dallas,90000-110000,2024-07-10,4
+182,UX Designer,Denver,80000-100000,2024-06-23,1
+183,Backend Developer,Atlanta,60000-80000,2024-09-25,8
+184,Financial Analyst,Atlanta,80000-100000,2024-07-09,5
+185,Curriculum Designer,Atlanta,70000-90000,2024-09-20,9
+186,UX Designer,San Francisco,70000-90000,2024-10-23,4
+187,Curriculum Designer,Seattle,70000-90000,2024-05-19,2
+188,Software Engineer,Los Angeles,90000-110000,2024-06-13,3
+189,Software Engineer,Boston,80000-100000,2024-11-01,6
+190,Research Associate,Atlanta,100000-130000,2024-08-25,4
+191,Curriculum Designer,Denver,90000-110000,2024-06-19,8
+192,Research Associate,San Francisco,90000-110000,2024-06-22,5
+193,Data Analyst,New York,80000-100000,2024-10-09,5
+194,Software Engineer,New York,60000-80000,2024-06-03,6
+195,Research Associate,Austin,90000-110000,2024-10-09,1
+196,Environmental Scientist,Seattle,80000-100000,2024-08-20,2
+197,Environmental Scientist,Atlanta,70000-90000,2024-08-01,4
+198,Software Engineer,San Francisco,50000-70000,2024-05-24,10
+199,Research Associate,New York,50000-70000,2024-05-22,4
+200,Data Analyst,Chicago,90000-110000,2024-07-08,3
